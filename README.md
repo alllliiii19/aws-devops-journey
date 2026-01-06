@@ -32,6 +32,20 @@ After 6 days of learning DevOps concepts and Linux fundamentals, I successfully 
 ## 📸 Deployment Evidence
 *(Upload your screenshot of the StreamFlix website here)*
 
+
+
+![StreamFlix Website Preview](./images/Streamf-lix_app.png)
+
+
+
+
+
+
+
+
+
+
+
 ## 🔮 Next Steps (Week 2)
 * Configuring a custom Domain Name (DNS).
 * Enabling HTTPS with SSL Certificates.
