@@ -1,0 +1,84 @@
+ 1102  clear
+ 1103  mkdir documenting_folder
+ 1104  mv README.md documenting_folder/
+ 1105  mv README2NDFEB.md documenting_folder/
+ 1106  mv README30JAN.md documenting_folder/
+ 1107  mv Week_1_summary.md documenting_folder/
+ 1108  ls
+ 1109  cd documenting_folder/
+ 1110  ls
+ 1111  cd .
+ 1112  cd ~
+ 1113  cd aws-devops-journey/
+ 1114  ls
+ 1115  git add .
+ 1116  git commit -m "for documenting my daily work hours"
+ 1117  git push origin feature-x
+ 1118  pwd
+ 1119  git branch
+ 1120  git pull origin feature-x
+ 1121  clear
+ 1122  ls
+ 1123  git pull 
+ 1124  git config" with "git config --global
+ 1125  git --config
+ 1126  git config --oneline
+ 1127  git -config --oneline
+ 1128  clear
+ 1129  git pull origin feature-x
+ 1130  clear
+ 1131  git pull --no-rebase origin feature-x
+ 1132  git status
+ 1133  rm README.md
+ 1134  rm READMEDAY7.md
+ 1135  git add documenting_folder/README.md
+ 1136  git commit -m "Resolve rename conflict: keep documentation under documenting_folder"
+ 1137  git rm README.md
+ 1138  git rm READMEDAY7.md
+ 1139  git add documenting_folder/README.md
+ 1140  git commit -m "Resolve rename conflict: keep documentation under documenting_folder"
+ 1141  git push origin feature-x
+ 1142  git status
+ 1143  clear
+ 1144  git checkout master
+ 1145  git add .
+ 1146  git commit -m "In a single folder"
+ 1147  git push origin master
+ 1148  clear
+ 1149  git switch feature-x
+ 1150  ls
+ 1151  cd documenting_folder/
+ 1152  ls
+ 1153  mv README.md READMEDAY7.md
+ 1154  git add .
+ 1155  git commit -m "name change"
+ 1156  git push origin feature-x
+ 1157  ssh bandit.labs.overthewire.org 2220
+ 1158  ssh bandit0 bandit.labs.overthewire.org 2220
+ 1159  ssh bandit0@bandit.labs.overthewire.org -p 2220
+ 1160  ssh bandit1@bandit.labs.overthewire.org -p 2220
+ 1161  clear
+ 1162  ssh bandit2@bandit.labs.overthewire.org -p 2220
+ 1163  ssh bandit3@bandit.labs.overthewire.org -p 2220
+ 1164  ssh bandit4@bandit.labs.overthewire.org -p 2220
+ 1165  ssh bandit5@bandit.labs.overthewire.org -p 2220
+ 1166  clear
+ 1167  ssh bandit6@bandit.labs.overthewire.org -p 2220
+ 1168  ssh bandit7@bandit.labs.overthewire.org -p 2220
+ 1169  ssh bandit8@bandit.labs.overthewire.org -p 2220
+ 1170  ssh bandit9@bandit.labs.overthewire.org -p 2220
+ 1171  ssh bandit10@bandit.labs.overthewire.org -p 2220
+ 1172  git branch
+ 1173  ls
+ 1174  mkdir bandit_game
+ 1175  cd bandit_game/
+ 1176  touch bandit_game0-10.md
+ 1177  git add .
+ 1178  git commit -m "bandit game level 0-10"
+ 1179  git push origin feature-x 
+ 1180  cd ..
+ 1181  ls
+ 1182  git add .
+ 1183  git commit -m "bandit game level 0-10"
+ 1184  git push origin feature-x 
+ 1185  history
